@@ -9,7 +9,9 @@ prodigal
 
 usearch
 
-Additional script dependencies: perl_quicklook1.pl
+Additional script dependencies: 
+
+perl_quicklook1.pl
 
 contig_stats.pl
 
